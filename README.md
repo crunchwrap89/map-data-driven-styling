@@ -31,3 +31,6 @@ npm run build
 ```sh
 npm run lint
 ```
+
+Find tutorials on fun coding projects at
+[www.marcusn.dev](https://marcusn.dev)
